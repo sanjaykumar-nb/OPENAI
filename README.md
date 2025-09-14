@@ -1,6 +1,6 @@
 # OPENAI
-🚨 Crisis Communication AI: Real-Time Misinformation Detection
-[![Python](https://img.shields://www.python.org/downloads.shields.io/badge/Flask-2.3.0-greenimg.shields.io/badge/OpenAI-GPT--4-orange> Advanced AI-powered system for real-time misinformation detection and crisis response using OpenAI GPT-4
+## 🚨 Crisis Communication AI: Real-Time Misinformation Detection
+Advanced AI-powered system for real-time misinformation detection and crisis response using OpenAI GPT-4
 
 🌟 Features
 Real-time misinformation detection with 94.2% accuracy
@@ -155,16 +155,3 @@ Modify crisis levels in crisis_handler.py
 
 🏅 Social Impact Award - Crisis Communication
 
-📄 License
-MIT License - see LICENSE file for details.
-
-📞 Contact
-Demo: Live Demo Link
-
-GitHub: Repository
-
-Email: your.email@domain.com
-
-⭐ Star this repo if it helped you fight misinformation!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/crisis-
