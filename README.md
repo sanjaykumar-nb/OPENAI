@@ -1,4 +1,4 @@
-# OPENAI
+# OPENAI-BUILDATHON
 ## 🚨 Crisis Communication AI: Real-Time Misinformation Detection
 Advanced AI-powered system for real-time misinformation detection and crisis response using OpenAI GPT-4
 
