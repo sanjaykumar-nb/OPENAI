@@ -26,9 +26,7 @@ OpenAI API key
 
 Installation
 bash
-# Clone repository
-git clone https://github.com/yourusername/crisis-communication-ai.git
-cd crisis-communication-ai
+
 
 # Setup environment
 python -m venv venv
@@ -144,7 +142,7 @@ Open Pull Request
 Environment Variables:
 
 text
-OPENAI_API_KEY=sk-your-openai-api-key
+OPENAI_API_KEY=your-openai-api-key
 FLASK_ENV=development
 FLASK_DEBUG=True
 Customize detection thresholds in detection.py
